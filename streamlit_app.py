@@ -1,4 +1,5 @@
 # app url : https://harishankarsugumaran-first-streamlit-app-streamlit-app-u3y3yt.streamlit.app/
+# snowsql -a mj33398.ca-central-1 -u harisnow
 
 import pandas as pd
 import streamlit
